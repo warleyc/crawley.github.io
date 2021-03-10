@@ -1,13 +1,14 @@
 {
   "name": "crawley.github.io",
   "version": "1.0.0",
-  "description": "",
+  "description": "Personal website",
   "main": "index.js",
   "directories": {
     "doc": "doc"
   },
   "dependencies": {
-    "bootstrap": "^3.3.4"
+    "bootstrap": "^3.3.4",
+    "jquery": "^2.2.4"
   },
   "devDependencies": {},
   "scripts": {
@@ -17,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/warleyc/crawley.github.io.git"
   },
-  "author": "",
+  "author": "Nicolas CRAWLEY",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/warleyc/crawley.github.io/issues"

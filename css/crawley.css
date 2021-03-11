@@ -172,8 +172,8 @@ Name:
 
     border-radius: 8px;
     box-shadow: 0 0 white,1px 5px 10px #779;
-    -moz-border-radius: 8px 8px 8px 8px;
-    -moz-box-shadow: 0 0 #FFFFFF, 1px 5px 10px #777799;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 0 0 #FFFFFF, 1px 5px 10px #777799;
     border: 1px solid #DEDDE2;
 
 }
@@ -197,8 +197,8 @@ Name:
     visibility: visible;
     border-radius: 4px;
     box-shadow: 0 0 white,1px 5px 10px #779;
-    -moz-border-radius: 8px 8px 8px 8px;
-    -moz-box-shadow: 0 0 #FFFFFF, 1px 5px 10px #777799;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 0 0 #FFFFFF, 1px 5px 10px #777799;
     border: 1px solid #DEDDE2;
 }
 
@@ -246,8 +246,8 @@ Name:
         width: 700px;
         border-radius: 8px;
         box-shadow: 0 0 white,1px 5px 10px #779;
-        -moz-border-radius: 8px 8px 8px 8px;
-        -moz-box-shadow: 0 0 #FFFFFF, 1px 5px 10px #777799;
+        border-radius: 8px 8px 8px 8px;
+        box-shadow: 0 0 #FFFFFF, 1px 5px 10px #777799;
         border: 1px solid #DEDDE2;
         padding: 40px 10px 40px;
     }
@@ -460,19 +460,19 @@ div.border {
     margin-top: 100px;
     border-radius: 8px;
     box-shadow: 0 0 white,1px 5px 10px #779;
-    -moz-border-radius: 8px 8px 8px 8px;
-    -moz-box-shadow: 0 0 #FFFFFF, 1px 5px 10px #777799;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 0 0 #FFFFFF, 1px 5px 10px #777799;
     border: 1px solid #DEDDE2;
     padding: 40px 10px 40px;
 }
 
 
 
-.projets .rub-name{display:inline-block;padding:0 25px;line-height:52px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;background-color:#CEEAEC;font-size:20px;text-transform:uppercase;-webkit-box-shadow:0 3px 0 0 rgba(0,0,0,0.25);-moz-box-shadow:0 3px 0 0 rgba(0,0,0,0.25);box-shadow:0 3px 0 0 rgba(0,0,0,0.25)}
+.projets .rub-name{display:inline-block;padding:0 25px;line-height:52px;border-radius:5px;border-radius:5px;border-radius:5px;background-color:#CEEAEC;font-size:20px;text-transform:uppercase;box-shadow:0 3px 0 0 rgba(0,0,0,0.25);box-shadow:0 3px 0 0 rgba(0,0,0,0.25);box-shadow:0 3px 0 0 rgba(0,0,0,0.25)}
 .projets .rub-wrapper{background:transparent url(../img/central-line.png) 50% top repeat-y;padding-bottom:40px}
-.projets .year-title{margin:40px 0 70px;display:inline-block;line-height:30px;padding:0 17px;font-size:20px;color:#000;background-color:#CEEAEC;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 3px 0 0 rgba(0,0,0,0.25);-moz-box-shadow:0 3px 0 0 rgba(0,0,0,0.25);box-shadow:0 3px 0 0 rgba(0,0,0,0.25)}
+.projets .year-title{margin:40px 0 70px;display:inline-block;line-height:30px;padding:0 17px;font-size:20px;color:#000;background-color:#CEEAEC;border-radius:3px;border-radius:3px;border-radius:3px;box-shadow:0 3px 0 0 rgba(0,0,0,0.25);box-shadow:0 3px 0 0 rgba(0,0,0,0.25);box-shadow:0 3px 0 0 rgba(0,0,0,0.25)}
 .projets .remove-margin{margin:0px 0 0px}
-.projets .reference{position:relative;width:300px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;background-color:#fff;text-align:left;margin-bottom:70px;padding-bottom:10px}
+.projets .reference{position:relative;width:300px;border-radius:5px;border-radius:5px;border-radius:5px;background-color:#fff;text-align:left;margin-bottom:70px;padding-bottom:10px}
 .projets .reference a{text-decoration:none}
 .projets .reference a:hover h2{text-decoration:underline}
 .projets .reference .text{padding:20px 20px 10px}
@@ -482,7 +482,7 @@ div.border {
 .projets .reference .logo img{margin:10px 0 0 18px;vertical-align:top;border:0px solid rgba(0,0,0,0.4)}
 .projets .reference .screenShot img{width:125px;margin:10px 0 0 18px;vertical-align:top;border:1px solid rgba(0,0,0,0.4)}
 .projets .reference img.large{width:197px;margin:0 auto 10px;display:block}
-.projets .reference .dot{position:absolute;top:-36px;left:140px;width:10px;height:10px;display:block;background-color:#DD3052;-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px;border:5px solid #0B5D86;-webkit-box-sizing: content-box;-moz-box-sizing: content-box;box-sizing: content-box;}
+.projets .reference .dot{position:absolute;top:-36px;left:140px;width:10px;height:10px;display:block;background-color:#DD3052;border-radius:15px;border-radius:15px;border-radius:15px;border:5px solid #0B5D86;box-sizing: content-box;box-sizing: content-box;box-sizing: content-box;}
 .projets .reference:after{position:absolute;top:-8px;left:142px;display:inline-block;border-right:8px solid transparent;border-left:8px solid transparent;border-bottom:8px solid #fff;content:''}
 @media only screen and (min-width:480px){
 
